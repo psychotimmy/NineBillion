@@ -8,4 +8,4 @@ approximately 11.5 billion possible names from a 13 character alphabet.
 
 No responsibility is taken by the author if you run this program and overhead, without any fuss, the stars go out.
 
-More details:
+More details: https://z80.timholyoake.uk/the-nine-billion-names-of-god/
